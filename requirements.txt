@@ -1,0 +1,13 @@
+streamlit
+pymupdf
+python-docx
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-google-genai
+langchain-openai
+langchain-anthropic
+faiss-cpu
+sentence-transformers
+langchain-groq
